@@ -88,7 +88,7 @@ after installation, read the one that proves you can restore.
 - [Qubic Wallet auto-lock: choosing a timeout that fits your risk](qubic-wallet-auto-lock-settings.md) -
   the lock behaviour, the trade-off it encodes, and how to pick a timeout you will actually keep.
 
-### Recovery, devices and moving
+### Recovery, devices and moving.
 
 - [Restoring a Qubic Wallet account from a seed or a vault file](qubic-wallet-restore-account-seed.md) -
   the two restore inputs, what each one can rebuild, and the order to try them in.
